@@ -148,8 +148,21 @@ The model is a star schema. There are three (3) dimensional tables (orders, pizz
 
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/17475cab-67be-4ef9-b76a-ea7148214410/ReportSection?experience=power-bi)
 
+# Conclusion and Recommendations
 
+- To guarantee timely and effective service on the busiest day of the week, consider hiring more staffs and stocking up on more supplies on Fridays.
 
+- In order to stimulate more pizza orders, specials and discounts should be offered on Sundays.
+
+- Free delivery services may be recommended to increase sales outside the peak hour.
+
+- To make customers more aware of the 3 best selling pizza, look at making adverts.
+
+- The 3 worst selling pizzas should be taken off the menu, and substituted with fresh selections that will probably be more preferred by customers.
+
+- Advertisements should be made as the year’s second half approaches. 
+
+![](Thank_you.png)
 
 
 
